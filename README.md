@@ -1,2 +1,28 @@
 # PROCESS-OF-WEBSITES-by-Qiu-Ruodian
 对于经济金融词汇网站的初步收集结果
+
+
+##翻译网站(英翻中)搜寻结果##
+
+### 金融专业类翻译网站 ###
+
+* [财经金融会计字典查询-线上字典导览网](http://www.tradict.net/field_finance.php)
+ * [证券暨期货中英文专业词汇检索系统 (繁)](http://www.sfi.org.tw/glossary/)
+    ：由证期局及证券暨期货相关单位委托建置的网页，可利用中文查询关键词词汇、英文对照、中英文法规。
+ * [证券暨期货法令判解中英法规查询系统 (繁)](http://www.selaw.com.tw/)
+    ：提供中英文法规查询，包括名称、全文、发布单位与日期，不同证券暨期货的法规体系分类。
+
+* [SCIdict学术词典](http://www.scidict.org/)
+ * [商务英语词汇翻译](http://yingyucihui.scientrans.com/shangwucihui/)
+     * [企业章程中英翻译数据库](http://yingyucihui.scientrans.com/shangwucihui/207_65_1.html)
+     * [商业英汉词典](http://yingyucihui.scientrans.com/shangwucihui/207_65_1.html)
+     * [市场专业英语翻译](http://yingyucihui.scientrans.com/shangwucihui/207_65_1.html)
+     
+
+###非专业类翻译网站
+
+* [谷歌翻译](https://translate.google.cn/)
+* [必应在线翻译](http://www.bing.com/translator/)
+* [Free Translation and Professional Translaiton Services From SDL](https://www.freetranslation.com/)
+
+  后续如果找到更好的网站会即时更新=3=
