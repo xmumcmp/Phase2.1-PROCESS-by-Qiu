@@ -4,6 +4,10 @@
 
 ##翻译网站(英翻中)搜寻结果##
 
+### 情感词典
+
+* [2014 Master Dictionary](http://www3.nd.edu/~mcdonald/Word_Lists.html)
+
 ### 金融专业类翻译网站 ###
 
 * [财经金融会计字典查询-线上字典导览网](http://www.tradict.net/field_finance.php)
