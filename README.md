@@ -1,5 +1,4 @@
 # PROCESS-OF-WEBSITES-by-Qiu-Ruodian
-对于经济金融词汇网站的初步收集结果
 
 
 ##翻译网站(英翻中)搜寻结果##
@@ -29,4 +28,26 @@
 * [必应在线翻译](http://www.bing.com/translator/)
 * [Free Translation and Professional Translaiton Services From SDL](https://www.freetranslation.com/)
 
-  后续如果找到更好的网站会即时更新=3=
+
+##翻译网站最终决定及日后计划##
+
+###最终选定翻译情感词典网站
+
+* [谷歌翻译](https://translate.google.cn/)
+
+
+###日后计划###
+
+* 写出基本爬虫
+  * import request
+  * r = request(即提取翻译结果的url：google translate “检查”-->network-->XHR-->url)
+  * 存储为csv格式，格式套用即可
+* [pandas read excel](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.read_excel.html)
+  * 用pandas读取情感词典里的words一栏
+  * 存储为csv格式
+* 套用爬虫
+  * 用爬虫翻译情感字典单词
+  * 反爬问题：在反爬出现前一段时间设置time limit-->break
+* 整理
+  * 整理翻译结果
+  * 存储为csv格式
